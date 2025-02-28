@@ -9,3 +9,14 @@ Features:
 ✅ Visual representation of results using charts & graphs
 ✅ Dataset contains information about married women (mothers)
 ✅ Built with HTML, CSS, and Python (Django)
+
+To Run the Project
+Open the Terminal
+Navigate the project directory:
+cd DiabetesPrediction
+
+Run this command:
+python run manage.py
+
+localhost url is generated
+click on that url or copy the url and paste it in your browser
